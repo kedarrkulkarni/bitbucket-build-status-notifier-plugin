@@ -183,7 +183,7 @@ class BitbucketBuildStatusHelper {
     }
 
     public static String buildUrlFromBuild(Run<?, ?> build) {
-        return DisplayURLProvider.get().getRunURL(build);
+    	return DisplayURLProvider.get().getRunURL(build);
     }
 
     private static BitbucketBuildStatus createBitbucketBuildStatusFromBuild(Run<?, ?> build, boolean overrideLatestBuild) throws Exception {
