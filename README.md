@@ -1,6 +1,6 @@
 # Bitbucket Cloud build status notifier plugin for Jenkins - [![Build Status][jenkins-status]][jenkins-builds]
 
-This Jenkins plugin is simply a fork of original [Bitbucket Cloud build status notifier plugin for Jenkins](https://github.com/jenkinsci/bitbucket-build-status-notifier-plugin) at version [1.4.1](https://github.com/jenkinsci/bitbucket-build-status-notifier-plugin/releases/tag/1.4.1)
+This Jenkins plugin is simply a fork of original [Bitbucket Cloud build status notifier plugin for Jenkins]
 
 Please refer to documentation of original plugin for additional information
 
